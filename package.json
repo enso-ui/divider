@@ -1,8 +1,8 @@
 {
   "name": "@enso-ui/divider",
   "version": "3.1.1",
-  "description": "Divider",
-  "main": "src/Divider.vue",
+  "description": "Section divider component for Enso UI.",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/enso-ui/divider.git"
